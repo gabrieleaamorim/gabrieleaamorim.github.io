@@ -1,0 +1,17 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Lista de Tarefas baseadas no Microsoft To Do",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "html5",
+    "css",
+    "js",
+    "node"
+  ],
+  "author": "Gabriele Amorim",
+  "license": "MIT"
+}
