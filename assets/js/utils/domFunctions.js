@@ -8,7 +8,7 @@
 export function addTask(db, title = "") {
     //  criando uma nova tarefa
     const task = document.createElement("div");
-    //const id = Number(db.length) + 1;
+    ///const id = Number(db.length) + 1;
     task.classList.add("task");
     task.setAttribute("id", db.id);
   
