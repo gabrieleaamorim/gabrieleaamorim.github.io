@@ -13,5 +13,16 @@
     "node"
   ],
   "author": "Gabriele Amorim",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieleaamorim/todo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gabrieleaamorim/todo/issues"
+  },
+  "homepage": "https://github.com/gabrieleaamorim/todo#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
